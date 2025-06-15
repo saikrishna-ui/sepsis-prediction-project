@@ -32,4 +32,4 @@ You can download the dataset manually from the kaggle:
 
 ## 🔗 Author
 Sai Krishna Prasad Vibudi — Master's Student in Business Analytics at UNT  
-[LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-5a0227211)
+(https://www.linkedin.com/in/sai-krishna-prasad-vibudi-5a0227211/)

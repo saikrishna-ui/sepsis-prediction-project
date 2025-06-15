@@ -12,6 +12,15 @@ This project uses machine learning to predict sepsis using ICU patient data. Bui
 - MIMIC-based patient data (simulated ICU data from a Kaggle dataset)
 - Over 1.5 million records and 44 features
 - Features include heart rate, oxygen saturation, blood pressure, and more
+ ⚠️ The original `Sepsis.csv` file is too large to upload to GitHub (over 100MB).
+
+You can download the dataset manually from the official PhysioNet repository:  
+🔗(https://physionet.org/content/sepsis/1.0.0/)
+
+To download:
+1. Visit the link above
+2. Click on the “Download the files” button (or scroll down to see CSV files)
+3. Download `p000001.psv` to `p340297.psv` (or use a script to combine all)
 
 ## 💡 Outcome
 - Achieved 74% accuracy
